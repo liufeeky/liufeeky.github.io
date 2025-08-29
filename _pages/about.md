@@ -25,7 +25,7 @@ HELLO! I am a master student in SIGS
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2503</div><img src='images/dynamici2v.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2503</div><img src='images/dynamici2v.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DynamicI2V: Exploring Image-to-Video Generation Models via Multimodal LLM](https://arxiv.org/pdf/2505.19901)
