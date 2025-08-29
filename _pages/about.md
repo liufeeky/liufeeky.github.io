@@ -17,40 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-HELLO! 0821
+HELLO! I am a master student in SIGS
 
 
 # 🔥 News
-- HELLO!
-- HELLO!
+- *2025.08* I started my internship at Kling AI
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2216</div><img src='images/lzy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2503</div><img src='images/dynamici2v.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DynamicI2V: Exploring Image-to-Video Generation Models via Multimodal LLM](https://arxiv.org/pdf/2505.19901)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Liu, Yuhang Liu, Yonghui Zhang, Yuhang Guo, Yunpeng Zhang, Yonghui Guo, Yonghui Wang, and Jianping Wang.
+**Peng Liu**, **Xiaoming Ren**, **Fengkai Liu**, Qingsong Xie, Quanlong Zheng, Yanhao Zhang, Haonan Lu, Yujiu Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- HELLO!
+
 </div>
 </div>
 
-- [HELLO!](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09* 
+- *2022.09* National Encouragement Scholarship
 
 # 📖 Educations
-- *2025.07 - 2025.07 (now)*, 
-- *2020.09 - 2024.06*, zhejiang university
+- *2025.07 - now*, Tsinghua University
+- *2020.09 - 2024.06*, Zhejiang University
 
-# 💬 Invited Talks
-- *2021.06*, 
-- *2021.03*, HELLO!  \| [\[video\]](https://github.com/)
+<!-- # 💬 Invited Talks
+- *2021.06*  -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [HELLO!](https://github.com/), China.
+- *2025.08 - now*, [Kling Team, Kuaishou Tecnology](https://klingai.com/global/)
+- *2025.06 - 2025.08*, [PanGu-I2V Team, Huawei](https://consumer.huawei.com/en/)
+- *2024.11 - 2025.03*, [AI Centoer, OPPO](https://github.com/OPPO-Mente-Lab)
