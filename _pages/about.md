@@ -41,7 +41,7 @@ HELLO! I am a master student in SIGS
 - *2022.09* National Encouragement Scholarship
 
 # 📖 Educations
-- *2025.07 - now*, Tsinghua University
+- *2024.07 - now*, Tsinghua University
 - *2020.09 - 2024.06*, Zhejiang University
 
 <!-- # 💬 Invited Talks
